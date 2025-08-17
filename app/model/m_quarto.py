@@ -1,3 +1,4 @@
+#Ainda em Desenvolvimento!!
 # Banco de dados em memória (dicionário que simula um banco)
 quartos = {
     1: {"nome": "Quarto 1", "status": False},  # status=False significa "Disponível"
